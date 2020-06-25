@@ -1,12 +1,10 @@
-##Curso da Digital Inovation One
-
-### Desenvolvimento para Internet e Banco de Dados com Python e Django
+## Desenvolvimento para Internet e Banco de Dados com Python e Django
 
 
-Desenvolvimento de uma agenda de eventos gerenciando um Banco de Dados usando o Framework Django - linguagem de programação Python.
-Professor Rafael Galleani
+Desenvolvimento de uma aplicação WEB - AGENDA DE EVENTOS, gerenciando um Banco de Dados usando o Framework Django - linguagem de programação Python.
+Professor Rafael Galleani - Curso Digital Inovation One
 
-Módulos:
+### Módulos:
 - Introdução aos conceitos do Framework Django;
 - Estrutura básica e introdução a banco de dados com o Django-Admin;
 - Criando uma página de listagem;
